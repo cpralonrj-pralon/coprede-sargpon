@@ -1,0 +1,9 @@
+# Arquivos gerados pelo pipeline Python (não versionar)
+output/
+logs/
+__pycache__/
+*.pyc
+*.log
+
+# Arquivo CSV bruto (opcional – versionar apenas data/nap.csv)
+202604291622_*.csv
